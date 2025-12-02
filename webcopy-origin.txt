@@ -1,0 +1,20 @@
+Uri: https://ptoszek.pl/
+File Name: C:\Downloaded Web Sites\ptoszek.pl\index-1.htm
+Content Type: text/html
+
+Uri: https://ptoszek.pl/index.js
+File Name: C:\Downloaded Web Sites\ptoszek.pl\index-1.js
+Content Type: application/javascript
+
+Uri: https://ptoszek.pl/media/images/intro.gif
+File Name: C:\Downloaded Web Sites\ptoszek.pl\media\images\intro-1.gif
+Content Type: image/gif
+
+Uri: https://ptoszek.pl/media/images/ptok.jpg
+File Name: C:\Downloaded Web Sites\ptoszek.pl\media\images\ptok-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-6S5388LRGM
+File Name: C:\Downloaded Web Sites\ptoszek.pl\gtag\js-1
+Content Type: application/javascript
+
